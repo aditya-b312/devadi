@@ -1,0 +1,10 @@
+mkdir devadi
+cd devadi
+ssh-keygen
+cd .ssh
+vim config
+git clone 
+cd git name
+git status
+vim newdile.txt
+
